@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Adriano Antonucci. I work as a Devops Engineer at Gazin.
+My name is Adriano Antonucci. I work as a Devops Engineer at Globo.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=adrianoantonucci&repo=adrianoantonucci&countColorcountColor)
 
